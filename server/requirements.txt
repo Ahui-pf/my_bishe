@@ -1,0 +1,10 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+pillow==10.4.0
+numpy>=1.23
+opencv-python-headless>=4.8
+requests>=2.31.0
+python-jose[cryptography]>=3.3.0
+python-multipart>=0.0.6
+reportlab==3.6.0
+matplotlib>=3.5.0

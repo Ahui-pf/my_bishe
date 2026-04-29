@@ -1,0 +1,9 @@
+{
+  "include": [
+    "server"
+  ],
+  "extraPaths": [
+    "./Yolov9/yolov9-pothole"
+  ],
+  "typeCheckingMode": "basic"
+} 
