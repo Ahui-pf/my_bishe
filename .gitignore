@@ -40,3 +40,4 @@ checkpoints/
 weights/
 *.pt
 *.onnx
+!Yolov9/yolov9-pothole/yolo.pt
